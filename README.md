@@ -1,1 +1,1 @@
-# Selenium + Cucumber + Java + TestNG Tests
+# Selenium + Cucumber + Java + TestNG UI AutoTests
